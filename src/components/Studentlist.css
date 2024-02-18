@@ -1,0 +1,32 @@
+ul{
+    max-width: 800px;
+    margin: 15px auto;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+h1{
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
+.Header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 10px;
+}
+.delete{
+    color: black;
+    background-color: red;
+}
+ol{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: rgba(0,0,0,0.16) 0px 1px 4px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+}
